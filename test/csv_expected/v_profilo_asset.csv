@@ -1,0 +1,15 @@
+organizzazione_cf;organizzazione;asset_codice;asset_denominazione;asset_tipo;ubicazione;ubicazione_tipo;ubicazione_paese;riservatezza;integrita;disponibilita;stato_ciclo_vita;esposto_internet;dati_personali;data_introduzione;valid_from
+07812340968;Acme Banking S.p.A.;ACME-DB-CLI;Database anagrafica clienti;DATABASE;Datacenter primario Milano;DATACENTER;IT;ALTO;ALTO;ALTO;ATTIVO;NO;SI;2019-05-10;2026-04-23 22:34:10.018867
+07812340968;Acme Banking S.p.A.;ACME-DB-MOV;Database movimenti e saldi;DATABASE;Datacenter primario Milano;DATACENTER;IT;ALTO;ALTO;ALTO;ATTIVO;NO;SI;2019-05-10;2026-04-23 22:34:10.018867
+07812340968;Acme Banking S.p.A.;ACME-APP-CORE;Server applicativo core bancario;APPLICATIVO;Datacenter primario Milano;DATACENTER;IT;ALTO;ALTO;ALTO;ATTIVO;NO;SI;2019-07-01;2026-04-23 22:34:10.018867
+07812340968;Acme Banking S.p.A.;ACME-FW-PERIM;Firewall perimetrale primario;APPARATO_RETE;Datacenter primario Milano;DATACENTER;IT;BASSO;ALTO;ALTO;ATTIVO;NO;NO;2018-03-10;2026-04-23 22:34:10.018867
+07812340968;Acme Banking S.p.A.;ACME-FW-INT;Firewall segmentazione interna;APPARATO_RETE;Datacenter primario Milano;DATACENTER;IT;BASSO;ALTO;ALTO;ATTIVO;NO;NO;2018-03-10;2026-04-23 22:34:10.018867
+07812340968;Acme Banking S.p.A.;ACME-AFD;Sistema antifrode;APPLICATIVO;Datacenter primario Milano;DATACENTER;IT;ALTO;ALTO;MEDIO;ATTIVO;NO;SI;2022-01-15;2026-04-23 22:34:10.018867
+07812340968;Acme Banking S.p.A.;ACME-GW-SIA;Gateway integrazione SIA;APPLICATIVO;Datacenter primario Milano;DATACENTER;IT;ALTO;ALTO;ALTO;ATTIVO;NO;SI;2018-06-20;2026-04-23 22:34:10.018867
+07812340968;Acme Banking S.p.A.;ACME-SIEM;SIEM monitoring centralizzato;APPLICATIVO;Datacenter primario Milano;DATACENTER;IT;MEDIO;ALTO;MEDIO;ATTIVO;NO;SI;2022-11-01;2026-04-23 22:34:10.018867
+07812340968;Acme Banking S.p.A.;ACME-DB-IDM;Directory utenti IdentityHub locale;DATABASE;Datacenter primario Milano;DATACENTER;IT;ALTO;ALTO;ALTO;ATTIVO;NO;SI;2023-10-01;2026-04-23 22:34:10.018867
+07812340968;Acme Banking S.p.A.;ACME-STO-BKP;Storage backup off-site;STORAGE;Datacenter DR Torino;DATACENTER;IT;ALTO;ALTO;BASSO;ATTIVO;NO;SI;2019-01-08;2026-04-23 22:34:10.018867
+07812340968;Acme Banking S.p.A.;ACME-WEB-HB;Frontend web Home Banking;APPLICATIVO;AWS eu-south-1 (Milano);CLOUD_REGION;IT;MEDIO;ALTO;ALTO;ATTIVO;SI;SI;2020-02-14;2026-04-23 22:34:10.018867
+07812340968;Acme Banking S.p.A.;ACME-API-MOB;Backend API mobile banking;APPLICATIVO;AWS eu-south-1 (Milano);CLOUD_REGION;IT;MEDIO;ALTO;ALTO;ATTIVO;SI;SI;2021-10-01;2026-04-23 22:34:10.018867
+07812340968;Acme Banking S.p.A.;ACME-IDM;Identity e SSO;APPLICATIVO;AWS eu-south-1 (Milano);CLOUD_REGION;IT;ALTO;ALTO;ALTO;ATTIVO;SI;SI;2023-10-01;2026-04-23 22:34:10.018867
+07812340968;Acme Banking S.p.A.;ACME-LB-HB;Load balancer Home Banking;APPARATO_RETE;AWS eu-south-1 (Milano);CLOUD_REGION;IT;BASSO;MEDIO;ALTO;ATTIVO;SI;NO;2020-02-14;2026-04-23 22:34:10.018867

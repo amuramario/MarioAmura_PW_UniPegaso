@@ -1,0 +1,6 @@
+organizzazione_cf;organizzazione;fornitore;fornitore_id_fiscale;paese_sede;extra_ue;categoria;cpv_principale;criterio_rilevanza;certificazioni;data_inizio_rapporto;stato_rapporto
+07812340968;Acme Banking S.p.A.;Amazon Web Services EMEA SARL;LU26888617;LU;NO;CLOUD_PROVIDER;72000000-5;Hosting infrastruttura produzione home banking e core;ISO 27001, SOC 2 Type II, ISAE 3402;2021-06-01;ATTIVO
+07812340968;Acme Banking S.p.A.;SIA S.p.A.;10810030152;IT;NO;SOFTWARE_VENDOR;72267100-0;Gateway pagamenti interbancari SEPA e bonifici istantanei;ISO 27001, PCI-DSS;2018-01-01;ATTIVO
+07812340968;Acme Banking S.p.A.;SysBank Services S.p.A.;02345678903;IT;NO;SOFTWARE_VENDOR;72267100-0;Manutenzione e aggiornamenti software core bancario;ISO 27001;2019-03-15;ATTIVO
+07812340968;Acme Banking S.p.A.;IdentityHub EMEA B.V.;NL857392014;NL;NO;SOFTWARE_VENDOR;72212000-4;Identity provider SaaS per SSO clienti e dipendenti;ISO 27001, SOC 2 Type II;2023-09-10;ATTIVO
+07812340968;Acme Banking S.p.A.;SecureOps Italia S.r.l.;12998877001;IT;NO;SICUREZZA_GESTITA;72611000-6;Servizio SOC gestito 24/7 e risposta a incidenti;ISO 27001, ISO 27035;2022-11-01;ATTIVO

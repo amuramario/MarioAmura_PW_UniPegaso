@@ -1,0 +1,7 @@
+organizzazione_cf;organizzazione;servizio_codice;servizio_denominazione;descrizione;criticita;uptime_target;rto_ore;rpo_ore;orario_copertura;stato_erogazione;data_attivazione
+07812340968;Acme Banking S.p.A.;SRV-HB-WEB;Home banking web;Operativita online per clienti retail: saldi, bonifici, pagamenti F24;ALTA;99.900 %;2;1;H24;ATTIVO;2020-02-14
+07812340968;Acme Banking S.p.A.;SRV-HB-MOB;Home banking mobile;App iOS e Android con funzioni equivalenti al portale web;ALTA;99.900 %;2;1;H24;ATTIVO;2021-10-01
+07812340968;Acme Banking S.p.A.;SRV-POS;Servizio POS merchant;Autorizzazione transazioni POS presso esercenti convenzionati;ALTA;99.950 %;1;1;H24;ATTIVO;2016-05-01
+07812340968;Acme Banking S.p.A.;SRV-PAG-SEPA;Pagamenti SEPA e bonifici istantanei;Emissione e ricezione di bonifici area SEPA, istantanei in tempo reale;ALTA;99.500 %;4;2;H24;ATTIVO;2018-01-15
+07812340968;Acme Banking S.p.A.;SRV-CORE;Core bancario;Gestione conti, saldi, movimenti: backbone di ogni operazione finanziaria;ALTA;99.950 %;4;1;H24;ATTIVO;2019-07-01
+07812340968;Acme Banking S.p.A.;SRV-IDM;Identity provider e SSO;Autenticazione unificata per clienti e dipendenti, MFA obbligatorio;ALTA;99.900 %;1;1;H24;ATTIVO;2023-10-01

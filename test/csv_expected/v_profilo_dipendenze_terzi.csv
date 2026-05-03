@@ -1,0 +1,8 @@
+organizzazione_cf;organizzazione;sorgente_codice;sorgente_tipo;fornitore;identificativo_fiscale;paese_sede;cpv_principale;tipo_dipendenza;criticita;descrizione
+07812340968;Acme Banking S.p.A.;ACME-WEB-HB;ASSET;Amazon Web Services EMEA SARL;LU26888617;LU;72000000-5;ORGANIZZATIVA;ALTA;Hosting AWS region eu-south-1
+07812340968;Acme Banking S.p.A.;ACME-API-MOB;ASSET;Amazon Web Services EMEA SARL;LU26888617;LU;72000000-5;ORGANIZZATIVA;ALTA;Hosting AWS region eu-south-1
+07812340968;Acme Banking S.p.A.;ACME-GW-SIA;ASSET;SIA S.p.A.;10810030152;IT;72267100-0;ORGANIZZATIVA;ALTA;Gateway SIA per pagamenti interbancari
+07812340968;Acme Banking S.p.A.;ACME-APP-CORE;ASSET;SysBank Services S.p.A.;02345678903;IT;72267100-0;ORGANIZZATIVA;ALTA;Manutenzione core bancario
+07812340968;Acme Banking S.p.A.;ACME-IDM;ASSET;IdentityHub EMEA B.V.;NL857392014;NL;72212000-4;ORGANIZZATIVA;ALTA;Identity delegato a IdentityHub
+07812340968;Acme Banking S.p.A.;ACME-SIEM;ASSET;SecureOps Italia S.r.l.;12998877001;IT;72611000-6;ORGANIZZATIVA;MEDIA;SOC gestito da SecureOps
+07812340968;Acme Banking S.p.A.;ACME-STO-BKP;ASSET;CompuRack Italia S.r.l.;08223345099;IT;NULL;ORGANIZZATIVA;MEDIA;Colocation DC Torino
